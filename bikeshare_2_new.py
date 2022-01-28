@@ -1,4 +1,4 @@
-""" This code was developed by 'Ahmed Rabia' for the FDW Data Analysis Professional course  """
+""" This code was developed by 'Ahmed Rabia' for the FDW Data Analysis Professional Nano Degree  """
 
 
 import time
