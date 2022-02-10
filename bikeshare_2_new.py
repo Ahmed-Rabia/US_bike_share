@@ -32,7 +32,6 @@ def get_filters():
             print('\n This not a valid city name, please write the city name correctly')
         else:
             break
-
 	
     # get user input for month (all, january, february, ... , june)
     while True:
