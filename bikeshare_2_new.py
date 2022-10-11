@@ -11,6 +11,7 @@ CITY_DATA = { 'chicago': 'chicago.csv',
 
 """ These 3 lists are provided to validate the user's inputs   """
 
+
 city_names = ['chicago', 'new york city', 'washington']
 months_names = ['all', 'january', 'february', 'march', 'april', 'may', 'june']
 days_names = ['all', 'monday', 'tuesday', 'wednesday', 'thursday', 'friday', 'saturday', 'sunday']
